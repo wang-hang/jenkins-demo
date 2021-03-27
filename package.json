@@ -1,0 +1,20 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-hang/jenkins-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang-hang/jenkins-demo/issues"
+  },
+  "homepage": "https://github.com/wang-hang/jenkins-demo#readme"
+}
